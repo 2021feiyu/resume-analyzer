@@ -1,0 +1,21 @@
+# 环境变量（含密钥）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 数据 & 输出
+*.db
+*.xlsx
+*.log
+待评估简历/
+待审核合同/
+结果备份/
+
+# IDE
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
